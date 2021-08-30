@@ -1,4 +1,4 @@
-# Trends-in-Startups
+# Codecademy -- Trends-in-Startups
 
 /*checking how many columns are in the file*/
 select * from startups;
